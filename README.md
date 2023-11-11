@@ -29,10 +29,6 @@ Check [releases](https://github.com/watislaf/chessbot/releases), and download la
   install linux.
 * asm insert code
 
-### Authors
-
-* Vladislav Kozulin ([@watislaf](https://github.com/watislaf))
-
 ## Development status
 
 My goal waas 2000 ELO on chess.com, and still i'm not banned (ok iam banned but it is only because of my insolence), so i think this is sukces.
